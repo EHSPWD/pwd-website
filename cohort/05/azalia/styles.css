@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(28, 25, 21);
+    border: 4px dashed rgb(65, 48, 24);
+    color: beige;
+}
+p{
+    font-family: monospace;
+}
+ol{
+    font-family: monospace;
+}
