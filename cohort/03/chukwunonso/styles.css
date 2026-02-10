@@ -1,0 +1,14 @@
+body{
+ background-image: url('https://www.nhlbi.nih.gov/sites/default/files/inline-images/sleep%20apnea%20-%20shutterstock_1239383362.jpg');   
+font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+   text-align: center;
+}
+
+p{
+    color: darkgreen;
+    font-size: 18px;
+}

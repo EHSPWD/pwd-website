@@ -1,0 +1,27 @@
+h1 {
+    color:blue
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: purple
+}
+
+h2{
+    color: blue;
+}
+h3{
+    color: blue;
+}
+li{
+    color: purple;
+}
+P {
+    font-size:medium
+}
+h1{
+    text-align:center;
+}
+body {
+    background-color: gray
+}

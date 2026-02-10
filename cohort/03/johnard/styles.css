@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(8, 90, 173, 0.55);
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h1{
+    color: rgb(1, 72, 72);font-size: 13px;
+}
+h2{
+    color:rgb(1, 72, 72);font-size: 13px;
+}
+h3{
+    color:rgb(1, 72, 72);font-size: 13px;
+}
+p{
+    color: rgba(1, 1, 132, 0.571);font-size: 14px;
+background-image: initial;
+}

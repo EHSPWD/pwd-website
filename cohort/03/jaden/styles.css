@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: skyblue;
+    font-family: Arial;
+}
+a{
+    text-align: center;
+    font-size: 25px;
+    font-weight: normal;
+    color: yellow;
+    display: block;
+    font-family: Arial;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+    font-weight: semi-bold;
+    font-family: Arial;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: Arial;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+    font-weight: semi-bold;
+    font-family: Arial;
+}
+ol{
+    text-align: center;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: Arial;
+}
+body{
+    background-image: url(https://i.scdn.co/image/ab67616d0000b273dac79d62497956e46f755210);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}

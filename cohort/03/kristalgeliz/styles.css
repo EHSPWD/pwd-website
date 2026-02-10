@@ -1,0 +1,39 @@
+h1 {
+    color:skyblue
+}
+h2 {
+    color:skyblue 
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: tomato;
+    font-size: larger
+}
+
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: skyblue;
+    font-size: larger;
+    text-align: center;
+}
+ol{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: tomato;
+    
+}
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: lightgoldenrodyellow
+}
+
+    
