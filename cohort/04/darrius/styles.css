@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(1, 24, 39)
+}
+p{
+     color: rgb(105, 105, 157);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:28px
+   
+   
+}
+h1{
+    text-align: center;
+color:rgb(164, 138, 88);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size:28px
+
+}
+
+h2{
+color:rgb(148, 123, 171);
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:28px
+
+}
+
+li{
+ color:rgb(162, 162, 220);
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size:28px
+
+
+}
+ h3{
+    color: rgb(164, 138, 88);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size:28px
+
+
+ }
+
+ h4{
+    color:rgb(164, 138, 88);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size:28px
+
+
+ }
+
+ h6{
+    color:rgb(164, 138, 88);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size:28px
+
+
+ }
